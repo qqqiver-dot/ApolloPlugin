@@ -1,6 +1,6 @@
 [![license](http://img.shields.io/badge/license-Apache2.0-brightgreen.svg?style=flat)](https://github.com/qqqiver-dot/ApolloPlugin/blob/dev/LICENSE)
 
-[![Release Version](https://img.shields.io/badge/release-1.0.0-brightgreen.svg)](https://github.com/qqqiver-dot/ApolloPlugin/releases)
+[![Release Version](https://img.shields.io/badge/release-1.1.0-brightgreen.svg)](https://github.com/qqqiver-dot/ApolloPlugin/releases)
 
 ApolloPlugin is a plugin framework for Android that inherits from Qihoo360/RePlugin. While the original RePlugin project has reached a state of minimal maintenance with no active handling of issues or pull requests, it remains a mature and stable framework. If RePlugin resumes active maintenance in the future, we are committed to returning to the official repository and contributing to the community.
 
